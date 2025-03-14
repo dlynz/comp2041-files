@@ -1,0 +1,7 @@
+Alice 25 New York
+Bob 30 Los Angeles
+Charlie 25 Chicago
+Alice 25 New York
+David 35 Miami
+Bob 30 Los Angeles
+Eve 40 Boston
